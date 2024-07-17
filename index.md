@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Orégano Studio
 ---
 
 ## Este es mi primer blog con jekyll
