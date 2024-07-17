@@ -2,4 +2,6 @@
 title: Welcome to my blog
 ---
 
-## Este es mmi porimer blog con jekyll
+## Este es mmi primer blog con jekyll
+**Un texto con estilo**
+--------
